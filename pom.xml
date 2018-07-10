@@ -16,13 +16,13 @@
   <name>hbase-downstreamer</name>
   <url>https://github.com/saintstack/hbase-downstreamer</url>
   <properties>
-    <hbase.staging.repository>https://repository.apache.org/content/repositories/orgapachehbase-076/</hbase.staging.repository>
+    <hbase.staging.repository>https://repository.apache.org/content/repositories/orgapachehbase-1225/</hbase.staging.repository>
     <slf4j.version>1.7.5</slf4j.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <hbase.98.version>0.98.24</hbase.98.version>
     <hbase.1.version>1.2.6</hbase.1.version>
-    <hbase.2.version>2.0.0-alpha2</hbase.2.version>
+    <hbase.2.version>2.1.0</hbase.2.version>
   </properties>
   <modules>
     <module>hbase-0.98</module>
